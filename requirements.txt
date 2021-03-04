@@ -1,0 +1,4 @@
+web3~=5.17.0
+tqdm~=4.58.0
+rich~=9.12.4
+python-dotenv~=0.15.0
